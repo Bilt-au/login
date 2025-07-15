@@ -5,7 +5,6 @@ firebase.json
 .flutter-plugins-dependencies
 ios/
 android/
-firebase_options.dart
 windows/
 linux/
 macos/
