@@ -1,6 +1,6 @@
 name: bilt_login
 description: "A login screen using firebase and multiple providers."
-version: 0.0.1
+version: 0.0.4
 homepage: https://github.com/bilt-app/bilt-login
 
 environment:
